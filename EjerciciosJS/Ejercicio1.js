@@ -1,6 +1,5 @@
 // Detectar si la cadena de entrada en un palíndormo.
 
-
 function esPalindromo(event) {
     event.preventDefault(); // Evita que se envíe el formulario
 

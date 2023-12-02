@@ -14,5 +14,4 @@ function esMayor(event){
             console.log("El número " + num2 + " es mayor que el número " + num1);
             alert("El número " + num2 + " es mayor que el número " + num1);
     }
-
 }
